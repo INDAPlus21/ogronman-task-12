@@ -22,6 +22,6 @@ or...
 ### Wire World
 In wireworld draw with holding and dragging mouse button
 
-Remove/erase with the other mouse button
+Remove/erase with the other mouse button and dragging
 
 click to activate a neuron
