@@ -13,4 +13,4 @@ or...
 ### from terminal
 
 1. from src-folder use `javac *.java`
-2. from src-folder use `java OgronmanSorting`
+2. from src-folder use `java CellularAutomata`
