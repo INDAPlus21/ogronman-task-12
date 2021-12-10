@@ -14,3 +14,14 @@ or...
 
 1. from src-folder use `javac *.java`
 2. from src-folder use `java CellularAutomata`
+
+
+
+
+
+###Wire World
+In wireworld draw with holding and dragging mouse button
+
+Remove/erase with the other mouse button
+
+click to activate a neuron
